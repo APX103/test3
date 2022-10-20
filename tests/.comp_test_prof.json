@@ -1,0 +1,8 @@
+{
+    "repo": "APX103/test3", 
+    "version": {
+        "type": "branch",
+        "value": "main"
+    },
+    "dependencies": []
+}
